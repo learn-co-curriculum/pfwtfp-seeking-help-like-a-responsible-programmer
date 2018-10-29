@@ -8,10 +8,8 @@
 
 Many developers have written posts to Stack Overflow dozens of times, but only
 submitted a few. Why is that? Usually, it's because by the time they figure out
-how to methodically ask a Good Question, they've found their own answers. We
-took a look at how to ask questions in the previous lesson's video. Now we'll
-retiterate the process we outlined there and go deeper on each of the individual
-steps.
+how to methodically ask a Good Question, they've found their own answers. Let's
+see how that method works, step by step.
 
 ### Identify Help Request Patterns of Development
 
