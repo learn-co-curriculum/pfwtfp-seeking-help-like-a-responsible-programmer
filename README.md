@@ -9,7 +9,7 @@
 Many developers have written posts to Stack Overflow dozens of times, but only
 submitted a few. Usually, in taking the time to be methodical and ask a Good
 Question, they find the answer on their own. The trick that makes this work is
-_being methodical_. Let's see how that method works,step by step.
+_being methodical_. Let's see how that method works, step by step.
 
 ### Identify Help Request Patterns of Development
 
@@ -28,7 +28,7 @@ to ask for help. If the reason still isn't forthcoming we have a
 perfectly-formulated question to send out into a professional coding community
 like Stack Overflow.
 
-1. **Begin with a focused section of code.** Avoid posting too much code. Professional
+- **Begin with a focused section of code.** Avoid posting too much code. Professional
 programmers have very little time. If you've not done any work to help yourself,
 they won't bother to help. Show, by asking well-formulated questions,
 that you tried to help yourself. When coding community visitors see screen
@@ -36,7 +36,7 @@ after screen of pasted code they usually reach for the "Close Tab" button.
 If you struggle to narrow down the bit that causing you trouble, that
 tells you that you might need to ask a larger, more fundamental question.
 
-2. **State your inputs.** What are specific values you are putting into your
+- **State your inputs.** What are specific values you are putting into your
 code? Someone reading your question might not have your programming language
 installed or they might be on a slow network. Make sure they have the facts handy
 so they can mentally "play" your code.
@@ -44,25 +44,25 @@ so they can mentally "play" your code.
 Inputs are important factors you want to be able to identify and express,
 because the error might be there.
 
-3. **State your outputs.** Similiarly, identifying what values you're getting as
+- **State your outputs.** Similiarly, identifying what values you're getting as
 a result will help pinpoint a potential error and help a programmer "trace" your code.
 
-4. **State your expectation.** What result did you think you would get? This
+- **State your expectation.** What result did you think you would get? This
 step is the best way to clarify your original goal, which will help both you and
 whoever helps you make sure you work towards the correct solution.
 
-5. **State your theory for what should have happened.** This closely aligns with
+- **State your theory for what should have happened.** This closely aligns with
 the previous step, "state your expectation," but remember that not only do you
 need to know _what_ result you want, you need to understand _why_ that result
 should happen. That's how you can better spot errors and make corrections.
 
-6. **Check the documentation to make sure your implementation works as
+- **Check the documentation to make sure your implementation works as
 expected.** All developers have been in a position where they thought
 something worked a certain way, but in fact did not. Double-check all the
 available documentation for whichever tool or technique you're using so that you
 can eliminate that as a contributing factor to the current issue.
 
-7. **Test the implementation in IRB.** IRB is a great playground. Test parts of your
+- **Test the implementation in IRB.** IRB is a great playground. Test parts of your
 implementation there so that you can see how the pieces work in practice. Even
 senior developers often find themselves entering:
 
@@ -75,11 +75,11 @@ z = []
 So that they can be sure they understand some method (in this case, probably an
 `Enumerable` or some aspect of an `Array`).
 
-8. **Submit the question (if necessary).** As we said before, often going
+- **Submit the question (if necessary).** As we said before, often going
 through these steps will uncover any problems. But if you still need help, now
 is the right time to ask for it.
 
-9. **Be polite.** Phrases such as "I'm new to..." or "I can get this to work in
+- **Be polite.** Phrases such as "I'm new to..." or "I can get this to work in
 (other language)" help your collaborator gauge their response. Always thank the person
 who provides the winning response and mark their response as "correct." Keep in
 mind that your questions will stay on the site long past your coding snag. Future
